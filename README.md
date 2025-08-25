@@ -7,9 +7,9 @@ The policy is published using **GitHub Pages** so that it can be accessed public
 
 ## 📄 Privacy Policy
 You can view the live Privacy Policy here:  
-👉 [Privacy Policy](https://maydaybr.github.io/knowmedic-policies/privacy.html)
-👉 **Terms of Service:** https://maydaybr.github.io/knowmedic-policies/terms.html
-Home: https://maydaybr.github.io/knowmedic-policies/
+- 👉 **Privacy Policy:** https://maydaybr.github.io/knowmedic-policies/privacy.html
+- 👉 **Terms of Service:** https://maydaybr.github.io/knowmedic-policies/terms.html
+- Home: https://maydaybr.github.io/knowmedic-policies/
 
 ---
 
